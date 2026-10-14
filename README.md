@@ -201,7 +201,8 @@ end;
 
 <br/><br/>
 
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnaLauraCorrea&theme=redical&bg_color=120505&color=C71A36&line=8B0000&point=FF6B6B&hide_border=true&area=true&area_color=C71A36" />
+<img width="48%" alt="Streak" src="https://streak-stats.demolab.com/?user=AnaLauraCorrea&theme=radical&hide_border=true&background=120505&ring=C71A36&fire=FF6B6B&currStreakLabel=FF6B6B" />
+  <img width="48%" alt="Top linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLauraCorrea&layout=compact&theme=radical&hide_border=true&bg_color=120505&title_color=C71A36" />
 
 </div>
 
@@ -211,7 +212,7 @@ end;
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AnaLauraCorrea&theme=radical&no-frame=true&row=1&column=6&margin-w=8&no-bg=true" />
+<img alt="Resumo" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnaLauraCorrea&theme=radical" />
 
 </div>
 
@@ -247,7 +248,7 @@ end;
   <img src="https://img.shields.io/badge/LinkedIn-analauracdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1628" />
 </a>
 &nbsp;
-<a href="mailto:seuemail@email.com">
+<a href="mailto:analauracraftgold@gmail.com">
   <img src="https://img.shields.io/badge/Email-Fale_comigo-C71A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0505" />
 </a>
 &nbsp;
