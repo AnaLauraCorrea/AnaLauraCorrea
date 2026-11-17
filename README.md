@@ -201,8 +201,7 @@ end;
 
 <br/><br/>
 
-<img width="48%" alt="Streak" src="https://streak-stats.demolab.com/?user=AnaLauraCorrea&theme=radical&hide_border=true&background=120505&ring=C71A36&fire=FF6B6B&currStreakLabel=FF6B6B" />
-  <img width="48%" alt="Top linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLauraCorrea&layout=compact&theme=radical&hide_border=true&bg_color=120505&title_color=C71A36" />
+<img width="495" alt="Linguagens" src="./linguagens.svg" />
 
 </div>
 
